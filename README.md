@@ -1,6 +1,7 @@
 # user-research
 
 Smart device to track water consumption by toilet flush.
+
 Later on measuring the effect of interventions to reduce it.
 
 Sensor:
